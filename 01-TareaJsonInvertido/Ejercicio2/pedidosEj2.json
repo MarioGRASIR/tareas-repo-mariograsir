@@ -1,0 +1,38 @@
+[
+{
+	"cliente":{
+		"nombre":"Francisco Pancho",
+		"email":"ranciscopancho@gmail.com",
+		"direccion":"Avenida Carmelo, 12"
+	},
+	"productos":[
+	{
+		"nombre":"PC",
+		"cantidad":1,
+		"precio":1700.00
+	},{
+		"nombre":"Teclado",
+		"cantidad":1,
+		"precio":46.00
+	}
+	]
+},
+{
+       "cliente":{
+                "nombre":"Mario Gonzalez",
+                "email":"mariogonzalez@gmail.com",
+                "direccion":"Calle Gloria Fuertes, 2"
+        },
+        "productos":[ 
+        {
+                "nombre":"Espejo Inteligente",
+                "cantidad":1,
+                "precio":169.00
+        },{
+                "nombre":"Tarjeta SIMS",
+                "cantidad":1,
+                "precio":50.00
+        }
+        ]
+}
+]
